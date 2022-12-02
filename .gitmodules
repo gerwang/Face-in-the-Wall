@@ -1,0 +1,3 @@
+[submodule "2DASL"]
+	path = 2DASL
+	url = https://github.com/gerwang/2DASL.git
